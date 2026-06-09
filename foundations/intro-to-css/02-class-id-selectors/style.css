@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+.simple-class {
+    background-color: lightpink;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#id-2 {
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.cooler-class {
+    background-color: lightpink;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#id-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
