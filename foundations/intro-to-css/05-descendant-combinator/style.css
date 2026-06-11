@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.container .text {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+}
+
+.text {
+    font-weight: bold;
+    background-color: lightblue;
+    color: orange;
+    font-size: 11px;
+}
